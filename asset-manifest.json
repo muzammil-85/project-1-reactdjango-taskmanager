@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/project-1-reactdjango-taskmanager/static/css/main.0718432b.css",
-    "main.js": "/project-1-reactdjango-taskmanager/static/js/main.e107b14c.js",
+    "main.js": "/project-1-reactdjango-taskmanager/static/js/main.e75bde7d.js",
     "static/js/787.cda612ba.chunk.js": "/project-1-reactdjango-taskmanager/static/js/787.cda612ba.chunk.js",
     "index.html": "/project-1-reactdjango-taskmanager/index.html",
     "main.0718432b.css.map": "/project-1-reactdjango-taskmanager/static/css/main.0718432b.css.map",
-    "main.e107b14c.js.map": "/project-1-reactdjango-taskmanager/static/js/main.e107b14c.js.map",
+    "main.e75bde7d.js.map": "/project-1-reactdjango-taskmanager/static/js/main.e75bde7d.js.map",
     "787.cda612ba.chunk.js.map": "/project-1-reactdjango-taskmanager/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0718432b.css",
-    "static/js/main.e107b14c.js"
+    "static/js/main.e75bde7d.js"
   ]
 }
